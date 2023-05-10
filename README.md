@@ -16,6 +16,8 @@ cd lab srm
 
 6.<img width="357" alt="image" src="https://github.com/santhanalakshmi21/CD-LAB/assets/104186416/ad8391a4-0107-4f7f-96f1-820b567008b9">
 
+7.<img width="382" alt="image" src="https://github.com/santhanalakshmi21/CD-LAB/assets/104186416/2ca92f9a-b9b6-4ed8-b305-fb8498f59559">
+
 8.<img width="370" alt="image" src="https://github.com/santhanalakshmi21/CD-LAB/assets/104186416/52fe1a6b-c635-408d-907b-11bb6700f226">
 <img width="363" alt="image" src="https://github.com/santhanalakshmi21/CD-LAB/assets/104186416/3fce9fec-9a8f-4126-b44f-df79169361a5">
 <img width="350" alt="image" src="https://github.com/santhanalakshmi21/CD-LAB/assets/104186416/a0596b55-8316-4fc9-bf7a-f0fb7cc87b4f">
